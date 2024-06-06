@@ -4,6 +4,6 @@ The research conducted an in-depth analysis of the price relationships among var
 
 The project presented in this dissertation was carried out at the Aveiro Institute of Electronic and Computer Engineering (IEETA) (https://www.ieeta.pt/) of the University of Aveiro. The main objective is to study market profiles using Ritain.io (https://ritain.io/) data and methods such as CCF, DTW, and IPS.
 
-Mariangela Rodriguez
+Mariangela Rodriguez (mariangela.petruzzi@ua.pt)
 
-Sónia Gouveia 
+Sónia Gouveia (sonia.gouveia@ua.pt)
